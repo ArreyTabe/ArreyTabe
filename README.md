@@ -15,5 +15,36 @@ I'm a Full-stack Software Developer who is passionate about making things happen
 
 
 
-[![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe)](https://github.com/arreytabe/github-readme-stats)
+```md [![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe)](https://github.com/arreytabe/github-readme-stats)
+
+
+
+![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe&count_private=true)
+
+
+![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe&show_icons=true)
 ```
+
+
+![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe&show_icons=true&theme=radical)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arreytabe&repo=github-readme-stats&show_owner=true)](https://github.com/arreytabe/github-readme-stats)
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreytabe)](https://github.com/arreytabe/github-readme-stats)
+```
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreytabe&langs_count=8)](https://github.com/arreytabe/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
