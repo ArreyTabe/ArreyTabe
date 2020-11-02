@@ -16,11 +16,11 @@ I'm a Full-stack Software Developer who is passionate about making things happen
 
 
 ```md [![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe)](https://github.com/arreytabe/github-readme-stats)
+```
 
-
-
+```md
 ![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe&count_private=true)
-
+```
 
 ![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe&show_icons=true)
 ```
