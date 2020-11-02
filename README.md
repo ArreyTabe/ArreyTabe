@@ -1,14 +1,14 @@
-###    ** I am Arrey Tabe **
+# Hi, I'm Arrey 👋🏾 👩🏾‍💻
+
+<!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
+I'm a Full-stack Software Developer who is passionate about making things happen, I enjoy automating tomating  daily routines- ##Information Tehnology Changes Lives, and engaging th ecommunity to help my peers and the Young to grow by developing skills and finding opportunities community. Some technologies I work include but not limited to
+- HTML/CSS 
+-JavaScript
+- Ruby
+- RoR
+- React/Redux 
 
 
+## Find me around the web 🌎:[!github](https://github.com/ArreyTabe)
 
-
-
-- 🔭 Currently working on projects based on HTML and CSS ...
-- 🌱 Learning Full-stack Software Developement using Ruby, RoR, Javascript, React
-- 👯 I’m Willing and open to collaborate on Open source projects ...
-- 💬 Ask me about just Anything
-- 📫 How to reach me: 
-
-- https://twitter.com/tabe_arrey.; arrey2391@gmail.com ; https://www.linkedin.com/in/arrey-affuembey-80a8b11a8/
-
+- Sharing updates on <a href="https://www.linkedin.com/in/arrey-affuembey-80a8b11a8/">LinkedIn</a> 💼
