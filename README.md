@@ -12,3 +12,8 @@ I'm a Full-stack Software Developer who is passionate about making things happen
 ## Find me around the web 🌎:[!github](https://github.com/ArreyTabe)
 
 - Sharing updates on <a href="https://www.linkedin.com/in/arrey-affuembey-80a8b11a8/">LinkedIn</a> 💼
+
+
+
+[![ArreyTabe's github stats](https://github-readme-stats.vercel.app/api?username=arreytabe)](https://github.com/arreytabe/github-readme-stats)
+```
